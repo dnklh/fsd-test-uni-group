@@ -49,6 +49,8 @@ A full-stack application for managing GitHub repositories with user authenticati
    - Backend API: http://localhost:3000
    - Health Check: http://localhost:3000/health
 
+**Note**: The Docker setup includes all necessary environment variables. No additional configuration is required for basic usage.
+
 ## 🔧 Development Setup
 
 1. **Install dependencies**:
@@ -236,15 +238,3 @@ For a complete full-stack application, consider adding:
 3. **Monitoring**: Application performance monitoring
 4. **CI/CD**: Automated deployment pipeline
 5. **Documentation**: API documentation with Swagger
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the ISC License.
